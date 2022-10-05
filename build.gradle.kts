@@ -16,7 +16,7 @@ repositories {
 }
 
 application {
-    mainClass.set("com.zittla.tickets.TicketsLauncherKt")
+    mainClass.set("com.zittla.bot.EconomyBotLauncher")
 }
 
 dependencies {
