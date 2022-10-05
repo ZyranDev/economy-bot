@@ -1,0 +1,9 @@
+token: DISCORD_TOKEN
+thread-pool-size: 2
+
+messages:
+  deposit-target: "You have deposited %amount% into your account."
+  withdraw-source: "You have withdrawn %amount% from your account."
+  withdraw-target: 'You have withdrawn %amount% from your account.'
+  balance: 'Your balance is %balance%.'
+  no-account: 'You do not have an account.'
